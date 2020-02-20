@@ -4,21 +4,24 @@ import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 
 public class Login {
-    @Given("^that i am on the facebook login page$")
+    @Given("^User is in Facebook's main page$")
     public void thatIAmOnTheFacebookLoginPage() {
+        System.out.println("I load the web driver.");
         System.out.println("I'm on the Facebook login page");
     }
 
-    @When("^user enters his email and password$")
+    @When("^The user enters their email and password$")
     public void userEnterHisEmail() {
+        System.out.println("Email and password are typed into their " +
+                "respective spaces");
     }
 
-    @And("^clicks the Log in button$")
+    @And("^clicks the Login button$")
     public void userEnterHisPassword() {
-        System.out.println("");
+        System.out.println("Login button is clicked.");
     }
 
-    @Then("^user is redirected to Facebook home page$")
+    @Then("^the user is redirected to Facebook's home page$")
     public void userIsRedirectedToFacebookHomePage() {
         System.out.println("I redirect the user to the main FB page");
     }
