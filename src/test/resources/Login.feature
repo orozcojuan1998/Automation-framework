@@ -1,6 +1,12 @@
-Feature: Login
-  Scenario: Login with valid credentials
+Feature:  Log in
+  Scenario: As an user I want to be able to log in on Facebook
+
     Given User is in Facebook's main page
-    When The user enters their email and password
-    And clicks the Login button
+    When The user enters his valid email and password
+    And clicks on the Login button
     Then the user is redirected to Facebook's home page
+
+
+
+
+
