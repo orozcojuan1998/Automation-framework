@@ -4,7 +4,7 @@ import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 
-public class LogIn {
+public class Login {
     @Given("^As an user I want to be able to log in on Facebook with email$")
     public void asAnUserIWantToBeAbleToLogInOnFacebookWithEmail() {
     }
