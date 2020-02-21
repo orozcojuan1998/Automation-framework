@@ -13,7 +13,7 @@ public class Login {
     }
 
     @When("^The user enters their email and password$")
-    public void the_user_enters_their_email_and_password() throws Throwable {
+    public void the_user_enters_his_email_and_password() throws Throwable {
         System.out.println("El usuario entra sus credenciales");
     }
 
@@ -27,4 +27,17 @@ public class Login {
         System.out.println("El usuario es redirigido a la página de inicio de Facebook");
     }
 
+    @When("^The user enters his valid email and password$")
+    public void theUserEntersHisValidEmailAndPassword() {
+    }
+
+    @And("^clicks on the Login button$")
+    public void clicksOnTheLoginButton() {
+    }
+
+    @When("^The user enters his valid phone number and password$")
+    public void theUserEntersHisValidPhoneNumberAndPassword() {
+    }
 }
+
+
