@@ -1,10 +1,9 @@
-Login.class
-LoginUI.class
-Modules\login\TestLogin.class
 builders\UserBuilder$Builder.class
+Modules\login\Login.class
 builders\UserBuilder.class
-RunTest.class
 Helpers\ChromeDriverInitialize.class
 Utils\DataReader.class
+Modules\login\LoginUI.class
+Modules\login\TestLogin.class
+Modules\login\RunFeatures.class
 PageObjects\LoginPage.class
-Modules\login\LoginTest.class

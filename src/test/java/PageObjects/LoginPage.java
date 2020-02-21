@@ -5,11 +5,11 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
 public class LoginPage {
-    WebElement emailTextBox;
-    WebElement passwordTextBox;
-    WebElement loginButton;
-    WebElement forgotButton;
-    WebElement logo;
+    private WebElement emailTextBox;
+    private WebElement passwordTextBox;
+    private WebElement loginButton;
+    private WebElement forgotButton;
+    private WebElement logo;
     public LoginPage (){
         System.out.println("Aquí se instancia el web driver");
         System.out.println("Find elements by id");

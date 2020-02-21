@@ -10,7 +10,7 @@ public class TestLogin {
 
     @Test
     public void testLogin() throws Exception {
-// driver.get("https:// www.facebook.com");
+
         //System.setProperty("webdriver.chrome.driver","/path/to/chromedriver");
         //WebDriver driver = new ChromeDriver();
         System.out.println("Webdriver object is initialized from the Chrome" +

@@ -1,10 +1,8 @@
 C:\Users\nmartin\Downloads\aaa\Automation-framework\src\test\java\PageObjects\LoginPage.java
 C:\Users\nmartin\Downloads\aaa\Automation-framework\src\test\java\Utils\DataReader.java
-C:\Users\nmartin\Downloads\aaa\Automation-framework\src\test\java\LoginUI.java
-C:\Users\nmartin\Downloads\aaa\Automation-framework\src\test\java\Modules\login\LoginTest.java
+C:\Users\nmartin\Downloads\aaa\Automation-framework\src\test\java\Modules\login\RunFeatures.java
+C:\Users\nmartin\Downloads\aaa\Automation-framework\src\test\java\Modules\login\Login.java
+C:\Users\nmartin\Downloads\aaa\Automation-framework\src\test\java\Modules\login\LoginUI.java
 C:\Users\nmartin\Downloads\aaa\Automation-framework\src\test\java\builders\UserBuilder.java
 C:\Users\nmartin\Downloads\aaa\Automation-framework\src\test\java\Modules\login\TestLogin.java
-C:\Users\nmartin\Downloads\aaa\Automation-framework\src\test\java\RunTest.java
 C:\Users\nmartin\Downloads\aaa\Automation-framework\src\test\java\Helpers\ChromeDriverInitialize.java
-C:\Users\nmartin\Downloads\aaa\Automation-framework\src\test\java\Login.java
-C:\Users\nmartin\Downloads\aaa\Automation-framework\src\test\java\LoginCellphone.java
