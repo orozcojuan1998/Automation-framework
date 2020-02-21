@@ -9,7 +9,7 @@ Feature: Log in UI
     And search for facebook
     When User clicks on www.facebook.com
     Then the user is redirected to Facebook's home page
-    And can check that email/phone,password text box and log in button
+    And can check that email/phone,password text box and log in button exist
 
   Scenario: As an user I want to be able to type on the username and password field
 
